@@ -1,0 +1,7 @@
+Financial Analysis
+-----------------------------------------------------------------------
+Total Months: 86
+Total Net P/L: $38382578.0
+Average Monthly P/L Change: $-2315.12
+Greatest Monthly Increase in Profits: Feb-2012 ($1926159.0)
+Greatest Monthly Decrease in Profits: Sep-2013 ($-2196167.0)
